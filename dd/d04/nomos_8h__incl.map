@@ -1,0 +1,45 @@
+<map id="src/nomos/agent/nomos.h" name="src/nomos/agent/nomos.h">
+<area shape="rect" id="node1" title="Nomos header file." alt="" coords="927,5,1117,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1681,229,1747,256"/>
+<area shape="rect" id="node3" title=" " alt="" coords="45,80,119,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1585,229,1656,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="194,80,271,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1341,229,1415,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,229,68,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1491,229,1561,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="448,80,527,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="928,229,999,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="602,80,674,107"/>
+<area shape="rect" id="node12" title=" " alt="" coords="698,80,751,107"/>
+<area shape="rect" id="node13" title=" " alt="" coords="776,80,847,107"/>
+<area shape="rect" id="node14" title=" " alt="" coords="871,80,947,107"/>
+<area shape="rect" id="node15" title=" " alt="" coords="569,229,633,256"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1022,80,1097,107"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1023,229,1091,256"/>
+<area shape="rect" id="node18" title=" " alt="" coords="115,229,211,256"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1222,80,1307,107"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1331,80,1419,107"/>
+<area shape="rect" id="node21" title=" " alt="" coords="295,229,397,256"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1579,80,1670,107"/>
+<area shape="rect" id="node23" href="$d0/d65/nomos__gap_8h_source.html" title=" " alt="" coords="525,155,634,181"/>
+<area shape="rect" id="node24" title=" " alt="" coords="953,304,1011,331"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2251,229,2334,256"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1846,80,1953,107"/>
+<area shape="rect" id="node27" href="$d7/ded/json__writer_8h.html" title="Handle JSON outputs." alt="" coords="1977,80,2083,107"/>
+<area shape="rect" id="node28" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library." alt="" coords="1444,80,1555,107"/>
+<area shape="rect" id="node31" href="$d4/d4c/libfossdbmanager_8h_source.html" title=" " alt="" coords="1975,229,2125,256"/>
+<area shape="rect" id="node29" href="$dc/d81/libfossscheduler_8h_source.html" title=" " alt="" coords="1709,155,1847,181"/>
+<area shape="rect" id="node30" href="$dc/df8/fossconfig_8h.html" title="FOSSology library to read config file." alt="" coords="1115,229,1215,256"/>
+<area shape="rect" id="node36" href="$d1/dd3/libfossrepo_8h_source.html" title=" " alt="" coords="735,155,842,181"/>
+<area shape="rect" id="node41" href="$d2/d5f/libfossdb_8h_source.html" title=" " alt="" coords="1422,155,1515,181"/>
+<area shape="rect" id="node42" href="$d8/d2f/libfossagent_8h_source.html" title=" " alt="" coords="1946,155,2061,181"/>
+<area shape="rect" id="node43" href="$d5/da6/sqlCopy_8h_source.html" title=" " alt="" coords="1233,155,1317,181"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2008,304,2092,331"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1772,229,1845,256"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1870,229,1950,256"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1398,304,1473,331"/>
+<area shape="rect" id="node37" title=" " alt="" coords="473,229,544,256"/>
+<area shape="rect" id="node38" title=" " alt="" coords="657,229,728,256"/>
+<area shape="rect" id="node39" title=" " alt="" coords="753,229,825,256"/>
+<area shape="rect" id="node40" title=" " alt="" coords="849,229,904,256"/>
+</map>
